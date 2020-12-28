@@ -1,2 +1,3 @@
-# projection_mapping
-projection mapping software for Mori Lab
+# Projection Mapping tools with micromanager
+## Setup
+
