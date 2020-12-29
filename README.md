@@ -1,10 +1,10 @@
 # Projection Mapping Software with Micro-Manager
 
 ## Dependencies
-Python 3.7~
-OpenCV for Python
-Python wx
-Arduino IDE
+Python 3.7~<br>
+OpenCV for Python<br>
+Python wx<br>
+Arduino IDE<br>
 
 ## Setup
 1. Install Micro-Manager(https://micro-manager.org)
