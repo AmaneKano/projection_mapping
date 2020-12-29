@@ -19,4 +19,5 @@ Arduino IDE<br>
 ```
 pythonw main.py
 ```
-2. choose any mode
+2. choose Calibration mode and you click in the window
+3. 
