@@ -9,10 +9,9 @@ Arduino IDE<br>
 
 ## Setup
 1. Install Micro-Manager(https://micro-manager.org)
-2. Make Micro-Maneger configuration file about camera in the Micro-Manager installed folder
-3. Put files in the Micro-Manager installed folder 
-4. Install wx and open cv for python
-5. Install arduino IDE
+2. Put files in the Micro-Manager installed folder 
+3. Install wx and open cv for python
+4. Install arduino IDE
 
 ## Usage
 1. type bellow in Micro-Manager installed folder
