@@ -5,6 +5,7 @@ Python 3.7~<br>
 OpenCV for Python<br>
 Python wx<br>
 Arduino IDE<br>
+[Micro-Manager](https://micro-manager.org)<br>
 
 ## Setup
 1. Install Micro-Manager(https://micro-manager.org)
